@@ -22,4 +22,6 @@ python main.py --input Videos/<name-of-the-input-file.extension> --output output
 ```
 #### `Make sure you use ".mp4" extension for the output file.`
 
+## Output
 
+!https://github.com/CodeRic28/stopped_vehicle_detection/assets/51741804/c22cf7e4-2b66-4620-84f7-3fcf97c2dee7
